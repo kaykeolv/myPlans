@@ -1,14 +1,30 @@
-# Java Back-End Develops 
+# **Java Back-End Develops **
 
-###### It's a example. I am study Git and GitHub and I am training how to upload files to my GitHub.
+###### It's a example. I am studying Git and GitHub and I am training how to upload files to my GitHub.
 
 ### I need to study:
 
-* Lambdas.
-* Stream API.
-* Error handling.
-* Generics.
-* Relational database.
-* No relational database. 
-* ...
+- [x] Java Programming language. 
+- [x] Structured programming. 
+- [x] Object-oriented programming.
+
+- [ ] Lambdas.
+
+- [ ] Stream API.
+
+- [ ] Error handling.
+
+* [ ] Generics.
+
+* [ ] Relational database.
+
+* [ ] No relational database. 
+
+* [ ] ...
+
+  
+
+### Study Time:
+
+
 
