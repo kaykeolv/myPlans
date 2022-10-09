@@ -15,16 +15,22 @@
 - [ ] Error handling.
 
 * [ ] Generics.
-
 * [ ] Relational database.
-
 * [ ] No relational database. 
-
 * [ ] ...
 
-  
+##### Attention: This plan are paused because I started studying the "Potência Tech powered by iFood - Java Beginners" on the website dio.me. :v: 
+
+
 
 ### Study Time:
 
-
-
+| Days of the week | Time          |
+| ---------------- | ------------- |
+| Monday           | 21:00 - 00:00 |
+| Tuesday          | 21:00 - 00:00 |
+| Wednesday        | 21:00 - 00:00 |
+| Thursday         | 21:00 - 00:00 |
+| Friday           | -             |
+| Saturday         | 14:00 - 18:00 |
+| Sunday           | 14:00 - 18:00 |
